@@ -1,6 +1,6 @@
-### Hello there! ![hand shake](https://github.com/Ian-FR/Ian-FR/blob/main/images/hand-shake.gif)
+### Hello there! <img src="https://github.com/Ian-FR/Ian-FR/blob/main/images/hand-shake.gif" width="30px"/>
 
-<img align='right' src="https://github.com/Ian-FR/Ian-FR/blob/main/images/octo-cat.gif"/>
+<img align='right' src="https://github.com/Ian-FR/Ian-FR/blob/main/images/octo-cat.gif" width="200"/>
 
 ## I'm a software architect focused on web and mobile solutions
 
@@ -9,6 +9,6 @@
 - 🌱 Learning some *Open Source* stuff
 - ✏️ Arch Linux (Manjaro) & fish | VS Code & Iosevka - JetBrains Mono
 
-📫 [![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ian-rocha-b1805b124/)](https://www.linkedin.com/in/ian-rocha-b1805b124/)
+📫 [![Linkedin Badge](https://img.shields.io/badge/-Ian%20Rocha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ian-rocha-b1805b124/)](https://www.linkedin.com/in/ian-rocha-b1805b124/)
 
 ![Ian-FR github stats](https://github-readme-stats.vercel.app/api?username=Ian-FR&theme=ayu-mirage&show_icons=true&count_private=true)
