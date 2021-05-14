@@ -1,4 +1,6 @@
-### Hi there 👋 Ian Rocha here!
+### Hello there! 👋 Ian Rocha here!
+
+<img align='right' src="http://github.com/Ian-FR/Ian-FR/images/octo-cat.gif"/>
 
 ## I'm a software architect focused on web and mobile solutions
 
