@@ -5,7 +5,7 @@
 I'm a **software architect** focused on _web_ and _mobile_ solutions
 
 - 📦 Building quality softwares
-- 💻 I use daily: `.dart`, `.ts`, `.html`, `.css`
+- 💻 I use daily: `.dart`, `.ts`, `.html`, `.css` `.php`
 - 🌱 Learning some **Open Source** stuff
 - ✏️ Arch Linux (Manjaro) & fish | VS Code & Iosevka - JetBrains Mono
 
