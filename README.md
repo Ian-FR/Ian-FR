@@ -2,10 +2,10 @@
 
 <img align='right' src="https://github.com/Ian-FR/Ian-FR/blob/main/images/octo-cat.gif" width="200"/>
 
-I'm a **software architect** focused on _mobile_ and _web_ solutions
+I'm a **software engineer** focused on _mobile_ solutions
 
 - 📦 Building quality softwares
-- 💻 I use daily: `.dart`, `.ts`, `.html`, `.css`
+- 💻 I use daily: `.dart`, `.swift`, `.kt`, `.ts`
 - 🌱 Learning some **Open Source** stuff
 - ✏️ MacOS & fish | VS Code & Iosevka - JetBrains Mono
 
