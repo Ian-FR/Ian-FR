@@ -5,7 +5,7 @@
 I'm a **software development engineer** focused on _mobile_ solutions
 
 - 📦 Building quality softwares
-- 💻 I use daily: `.dart`, `.swift`, `.kt`, `.ts`
+- 💻 I use daily: `.dart`, `.ts`
 - 🌱 Learning some **Open Source** stuff
 - ✏️ MacOS & fish | VS Code & Iosevka - JetBrains Mono
 
